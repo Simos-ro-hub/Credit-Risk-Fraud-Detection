@@ -2,7 +2,7 @@
 
 **Author:** azmainhaq · [Kaggle](https://www.kaggle.com/azmainhaq) · [Hugging Face](https://huggingface.co/Simosro)  
 **Stack:** Python · XGBoost · SHAP · LIME · SMOTE · Optuna · scikit-learn · pandas  
-**Streamlit app, FastAPI, and Docker deployment**
+**Deploy:** Streamlit app, FastAPI, and Docker deployment
 **Datasets:** [Credit Card Fraud Detection 2023](https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023) · [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit)
 
 ---
