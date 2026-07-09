@@ -1,4 +1,4 @@
-# AI-DrivenCredit Risk Assessment & Fraud Detection System
+# AI-Driven Credit Risk Assessment & Fraud Detection System
 
 **Author:** azmainhaq · [Hugging Face](https://huggingface.co/Simosro)  
 **Stack:** Python · XGBoost · SHAP · LIME · SMOTE · Optuna · scikit-learn · pandas  
